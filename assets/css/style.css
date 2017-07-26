@@ -245,6 +245,9 @@ ul {
     width: 92%;
   }
   
+  .auth-image {
+    width: 100%;
+  }
   nav {
     float: right;
     margin-right: 15%;
@@ -355,7 +358,6 @@ ul {
 
   .auth-image {
     float:none;
-
   }
 
   #masthead {
